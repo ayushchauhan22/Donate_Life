@@ -23,8 +23,9 @@ The main objective of this project is to:
 - Mobile-friendly design
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript
-- **Hosting:** WUAZE
+- **Frontend:** HTML, CSS
+- **Backend:** PHP
+- **Database:** MySQL
 
 ## 🚫 Scope Limitation
 This project is focused **only on blood donation**.  
